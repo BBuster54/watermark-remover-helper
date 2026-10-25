@@ -140,4 +140,4 @@ registry entry and no background service.
 
 ---
 
-*watermark-remover-helper · Updated 2026-10-24 · Shared under the MIT License*
+*watermark-remover-helper · Updated 2026-10-25 · Shared under the MIT License*
