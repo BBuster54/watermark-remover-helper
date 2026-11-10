@@ -140,7 +140,7 @@ registry entry and no background service.
 
 ---
 
-*watermark-remover-helper · Updated 2026-11-09 · Shared under the MIT License*
+*watermark-remover-helper · Updated 2026-11-10 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
